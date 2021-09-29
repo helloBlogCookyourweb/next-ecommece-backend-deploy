@@ -24,7 +24,7 @@ module.exports = ({ env }) => {
       },
     }
   }
-  
+
   return {
     defaultConnection: 'default',
     connections: {
